@@ -8,7 +8,7 @@ The goal of this work is to showcase my skills and talents to employers. I've in
 
 Here are the links to my work:
 
-https://bctan87.github.io/
+https://bctan87.github.io/reactportfolio/
 
 https://github.com/bctan87/reactportfolio
 
